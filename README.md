@@ -2,7 +2,7 @@
 Version: 1.0.0
 
 Requirements:
-Python 2.x 
+Python 2.7.5 
 json Module
 argparse Module
 
